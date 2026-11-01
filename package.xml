@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>arm_3dof_description</name>
+  <version>0.0.1</version>
+  <description>URDF description and MoveIt configuration for the 3-DOF robotic arm</description>
+  <maintainer email="bumble@example.com">bumble</maintainer>
+  <license>MIT</license>
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

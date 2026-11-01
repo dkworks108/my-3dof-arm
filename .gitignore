@@ -1,5 +1,14 @@
+# Python cache
 __pycache__/
 *.pyc
+
+# Colcon / ROS 2 build artifacts
+build/
+install/
+log/
+
+# Backups & local test logs
+arm_moveit_config_backup*/
 *test_report.txt
 *gazebo_test.txt
 pybullet_*.png
